@@ -13,6 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 
+# Attention: this file is modified directly in base of Tensorflow official code.
 """Routine for decoding the binary file format."""
 
 from __future__ import absolute_import
